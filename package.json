@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pwasem/vuforiajs"
+    "url": "https://github.com/pwasem/vuforiajs.git"
   },
   "keywords": [
     "vuforia",
